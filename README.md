@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Isaac Aillapan</h1>
-<h3 align="center">A passionate frontend developer and user experience from Chile - I never give up, and I will never go back on my word, that is my Ninja Way!</h3>
+<h3 align="center">A passionate frontend developer and user experience from Chile - I never give up, and I will never go back on my word, that is my Ninja!</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aillapanisaac" alt="aillapanisaac" /></a> </p>
 
