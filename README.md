@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aillapanisaac" alt="aillapanisaac" /></a> </p>
 
-- 🌱 I’m currently learning **JS Y GIT**
+- 🌱 I’m currently learning **GIT USANDO GIT BHASH**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
