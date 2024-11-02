@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Isaac Aillapán Tapia</h1>
-<h3 align="center">Soy titulado de técnico en programación y análisis de sistemas, actualmente estoy enfocado en la especialidad de Analista de Calidad (QA). Mi objetivo es seguir creciendo en conocimiento y como profesional, empleando mi formación técnica para seguir contribuyendo y asegurando la excelencia contribuyendo al éxito del equipo.</h3>
+<h3 align="center">Soy técnico titulado en programación y análisis de sistemas, especializado en el área de Análisis de Calidad (QA). Me apasiona el crecimiento continuo tanto en conocimientos como en habilidades profesionales, aprovechando mi sólida formación técnica para garantizar la excelencia en cada proyecto. Mi enfoque está en contribuir al éxito del equipo mediante la implementación de prácticas de aseguramiento de calidad que optimicen los procesos y resultados. Estoy comprometido con la mejora constante y la innovación para seguir impulsando la efectividad y confiabilidad de los productos y servicios en los que participo.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aillapanisaac" alt="aillapanisaac" /></a> </p>
 
